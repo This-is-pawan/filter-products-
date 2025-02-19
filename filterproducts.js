@@ -2,7 +2,6 @@ const products = [
   {
     id: 1,
     title: "marcos",
-    
     img: "https://images.pexels.com/photos/1350789/pexels-photo-1350789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     heading: "utopia sofa",
     price: "$3.99",
